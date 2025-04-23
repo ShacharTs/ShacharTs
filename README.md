@@ -13,6 +13,22 @@ I'm a second-year Computer Science student with a passion for code, games, and c
 
 Always building, always experimenting 🚀
 
+## 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/238965273581846529)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ShacharTs/)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShacharTs)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjt0oPYvgr3zZtC6Ak1twVQ)
+
+---
+
+## 📬 Contact Me
+
+Feel free to reach out if you have a game to test!
+
+📧 Email: [Shachar.ts1@gmail.com](mailto:Shachar.ts1@gmail.com)
+
+
 ---
 
 ## 🚧 Projects
