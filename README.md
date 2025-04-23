@@ -19,10 +19,11 @@ Always building, always experimenting 🚀
 
 ### 🧟‍♂️ Mob Age Tweak (Minecraft Mod)
 
-![Mob Age Logo](https://raw.githubusercontent.com/ShacharTs/ShacharTs/main/assets/mob-age-icon.png)
+[![Mob Age Tweak](https://cdn.modrinth.com/data/cached_images/7a4c18f2a656096c7dba3e6554ee709a9e6edcd4_0.webp)](https://modrinth.com/mod/mob-age-tweak)
 
 A tweak mod for Minecraft that adjusts mob aging mechanics for better balance and realism.  
 🔗 [View on Modrinth](https://modrinth.com/mod/mob-age-tweak)
+
 
 
 ---
