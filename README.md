@@ -22,6 +22,7 @@ Always building, always experimenting 🚀
 - 💻 [C++ & Makefile Summary](https://github.com/ShacharTs/C_Plus_Plus-Summary)  
   Notes and code snippets to help understand core C++ concepts and Makefile usage.
 
+---
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ShacharTs&theme=neon&hide_border=false&include_all_commits=false&count_private=false)  
@@ -30,12 +31,8 @@ Always building, always experimenting 🚀
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ShacharTs&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShacharTs/ShacharTs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShacharTs/ShacharTs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShacharTs/ShacharTs/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/ShacharTs/ShacharTs/output/snake.svg" alt="Snake animation" />
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=ShacharTs&icon=9&color=0)](https://visitcount.itsvg.in)
