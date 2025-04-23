@@ -16,11 +16,20 @@ Always building, always experimenting 🚀
 ---
 
 ## 🚧 Projects
-- 🧟‍♂️ [Mob Age Tweak (Minecraft Mod)](https://modrinth.com/mod/mob-age-tweak)  
-  A tweak mod for Minecraft that adjusts mob aging mechanics for gameplay balance and realism.
 
-- 💻 [C++ & Makefile Summary](https://github.com/ShacharTs/C_Plus_Plus-Summary)  
-  Notes and code snippets to help understand core C++ concepts and Makefile usage.
+### 🧟‍♂️ Mob Age Tweak (Minecraft Mod)
+
+![Mob Age Logo](https://raw.githubusercontent.com/ShacharTs/ShacharTs/main/assets/mob-age-icon.png)
+
+A tweak mod for Minecraft that adjusts mob aging mechanics for better balance and realism.  
+🔗 [View on Modrinth](https://modrinth.com/mod/mob-age-tweak)
+
+
+---
+
+### 💻 C++ & Makefile Summary
+[GitHub Repository](https://github.com/ShacharTs/C_Plus_Plus-Summary)  
+Notes and code snippets to help understand core C++ concepts and Makefile usage.
 
 ---
 
@@ -31,6 +40,7 @@ Always building, always experimenting 🚀
 
 ---
 
+## 🐍 Snake Eating Contributions
 <img src="https://raw.githubusercontent.com/ShacharTs/ShacharTs/output/snake.svg" alt="Snake animation" />
 
 ---
