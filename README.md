@@ -26,7 +26,7 @@ Always building, always experimenting 🚀
 
 Feel free to reach out if you have a game to test!
 
-📧 Email: [Shachar.ts1@gmail.com](mailto:Shachar.ts1@gmail.com)
+
 
 
 ---
