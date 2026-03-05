@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shachar Tsrafati (aka ShacharTs)
 
-I'm a second-year Computer Science student with a passion for code, games, and creativity.
+I'm a Third-year Computer Science student with a passion for code, games, and creativity.
 
 ## 🧠 Learning
 - Currently studying **C++**, **Java**, **Python**, and **C**
