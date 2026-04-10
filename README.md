@@ -60,6 +60,10 @@
 </table>
 
 <p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/ShacharTs/ShacharTs/output/snake.svg" alt="Snake animation" width="90%" />
 </p>
 
