@@ -1,17 +1,42 @@
 # 👋 Hi, I'm Shachar Tsrafati (aka ShacharTs)
 
-I'm a Third-year Computer Science student with a passion for code, games, and creativity.
+I'm a **Teaching Assistant** and Third-year Computer Science student at **Ariel University** with a passion for systems programming, cybersecurity, and game development.
 
-## 🧠 Learning
-- Currently studying **C++**, **Java**, **Python**, and **C**
-- Strongest in **Java** and **C++**
+## 🎓 Academic & Teaching
+- **Teaching Assistant:** Systems Programming 2 (C++) at Ariel University.
+- **Core Skills:** Strongest in **C++** and **Java**; proficient in **Python** and **C**.
 
 ## 🎯 Goals
-- Learning **game development** with **Unreal Engine 5**
-- Exploring **3D modeling** using **Blender**
+- Learning **game development** with **Unreal Engine 5**.
+- Exploring **3D modeling** using **Blender**.
 - Always looking for **indie games** or **projects to help bug test** 🐛🎮
 
-Always building, always experimenting 🚀
+---
+
+## 🚧 Projects
+
+### 🛡️ [Cyber Detection Methods](https://github.com/ShacharTs/Cyber-Detection-Methods-Project)
+Focuses on modern detection targeting threats within the **NPM** ecosystem.
+- Integrates **feature extraction**, **model training**, and a **user interface** for an end-to-end security pipeline.
+- Uses **Docker** and leverages both DataDog Malicious Software datasets and official NPM registry metadata.
+
+### 📱 [SmartCourseRecode](https://github.com/ShacharTs/SmartCourseRecode)
+An Android app (Tinder-style) designed to match students with TAs.
+- **Tech Stack:** **Supabase (SQL)**, **Firebase (NoSQL)**, and Kotlin.
+- **Features:** Real-time chat, camera integration, and notifications.
+- *(Note: Service is currently shut down)*
+
+### 📊 [NetCom Final Project](https://github.com/Wahylian/NetComFinalProj)
+A network communication analysis tool.
+- A **Python** project capable of generating 18+ different graphs/charts based on `pcapng` and CSV files to analyze network traffic patterns.
+
+### 📚 [C++ Guide + Makefile & CMake](https://github.com/ShacharTs/C_Plus_Plus-Summary)
+A comprehensive resource containing notes and code snippets for core C++ concepts and modern build systems (**Makefile** and **CMake**).
+
+### <img src="https://cdn.modrinth.com/data/cached_images/7a4c18f2a656096c7dba3e6554ee709a9e6edcd4_0.webp" width="22" style="vertical-align: middle;" /> [Mob Age Tweak (Minecraft Mod)](https://modrinth.com/mod/mob-age-tweak)
+A tweak mod for Minecraft that adjusts mob aging mechanics for better balance and realism.
+
+---
 
 ## 🌐 Socials
 
@@ -23,31 +48,7 @@ Always building, always experimenting 🚀
 ---
 
 ## 📬 Contact Me
-
 Feel free to reach out if you have a game to test!
-
-
-
-
----
-
-## 🚧 Projects
-
-### <img src="https://cdn.modrinth.com/data/cached_images/7a4c18f2a656096c7dba3e6554ee709a9e6edcd4_0.webp" width="32" style="vertical-align: middle; margin-right: 8px;" /> Mob Age Tweak (Minecraft Mod)
-
-A tweak mod for Minecraft that adjusts mob aging mechanics for better balance and realism.  
-🔗 [View on Modrinth](https://modrinth.com/mod/mob-age-tweak)
-
----
-
-### 💻 C++ & Makefile Summary
-
-📁 [GitHub Repository](https://github.com/ShacharTs/C_Plus_Plus-Summary)  
-Notes and code snippets to help understand core C++ concepts and Makefile usage.
-
----
-
-
 
 <table>
   <tr>
@@ -61,8 +62,6 @@ Notes and code snippets to help understand core C++ concepts and Makefile usage.
 </table>
 
 ---
-
-
 
 <img src="https://raw.githubusercontent.com/ShacharTs/ShacharTs/output/snake.svg" alt="Snake animation" />
 
