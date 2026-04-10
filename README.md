@@ -7,10 +7,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShacharTs&label=Profile%20views&color=0e75b6&style=flat" alt="ShacharTs" style="vertical-align: middle;" />
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/shachar-tsrafati-38a600354" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="22" width="30" style="vertical-align: middle;" /></a>
-  <a href="https://discord.gg/238965273581846529" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="22" width="30" style="vertical-align: middle;" /></a>
-  <a href="https://www.leetcode.com/shacharts" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="22" width="30" style="vertical-align: middle;" /></a>
-  <a href="https://www.youtube.com/c/shacharts" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="22" width="30" style="vertical-align: middle;" /></a>
+  <a href="https://linkedin.com/in/shachar-tsrafati-38a600354" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="22" width="30" style="vertical-align: middle;" /></a> 
+  <a href="https://discord.com/users/238965273581846529" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="22" width="30" style="vertical-align: middle;" /></a>
+  <a href="https://www.leetcode.com/u/y2z6CXPXf1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="22" width="30" style="vertical-align: middle;" /></a>
+  <a href="https://www.youtube.com/@TherealShacharTs" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="22" width="30" style="vertical-align: middle;" /></a>
 </p>
 
 ---
