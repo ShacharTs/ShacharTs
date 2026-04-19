@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shachar Tsrafati</h1>
 <p align="center">
   <strong>Third-Year Computer Science Student @ Ariel University</strong><br>
-  <strong>Teaching Assistant for Systems Programming 2 (C++)</strong>
 </p>
 
 <table align="center">
